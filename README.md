@@ -31,7 +31,7 @@
     </table>
 
     
-    <table align="center" bgcolor="#c0c0c0" cellpadding="10" cellspacing="10" width="80%">
+    <table align="center">
         <tr>
             <td align="middle"><img width="200" height="200" src="tokyo-ghoul.jpg"/></td>
             <td align="middle"><img width="200" height="200" src="manga-shoujou-orange.jpg"/></td>
