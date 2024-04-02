@@ -28,9 +28,6 @@
         <tr>
             <td><h2><a href="https://mangaonline.biz/generos/">Categorias de Mangá</a></h2></td>
         </tr>
-    </table>
-  <table align="center">
-        <tr>
             <td style="vertical-align: middle;"><img width="200" height="200" src="tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
             <td style="vertical-align: middle;"><img width="200" height="200" src="manga-shoujou-orange.jpg" alt="Manga Shoujou Orange"/></td>
             <td style="vertical-align: middle;"><img width="200" height="200" src="hello-kitty.jpg" alt="Hello Kitty"/></td>
