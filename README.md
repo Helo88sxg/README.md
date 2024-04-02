@@ -27,14 +27,7 @@
         </tr>
         <tr>
             <td><h2><a href="https://mangaonline.biz/generos/">Categorias de Mangá</a></h2></td>
-        </tr>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="manga-shoujou-orange.jpg" alt="Manga Shoujou Orange"/></td>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="hello-kitty.jpg" alt="Hello Kitty"/></td>
-        </tr>
-    </table>
-    <table align="center">
-        <tr>
+             <tr>
             <td align="center"><b>Seinen</b> <a href="https://mangasonline.cc/manga/tokyo-ghoul/">Clique aqui para ler</a></td>
             <td align="center"><b>Shoujo</b> <a href="https://editorajbc.com.br/mangas/colecao/orange/">Clique aqui para ler</a></td>
             <td align="center"><b>Josei</b> <a href="https://blogbbm.com/manga/wotakoi/">Clique aqui para ler</a></td>
@@ -43,6 +36,11 @@
             <td align="center"><b>Shounen</b> <a href="https://mangaonline.biz/manga/hunter-x-hunter/">Clique aqui para ler</a></td>
             <td align="center"><b>Kodomo</b> <a href="https://myanimelist.net/anime/23915/The_Adventures_of_Hello_Kitty___Friends">Clique aqui para ler</a></td>
             <td></td>
+        </tr>
+        </tr>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="manga-shoujou-orange.jpg" alt="Manga Shoujou Orange"/></td>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="hello-kitty.jpg" alt="Hello Kitty"/></td>
         </tr>
     </table>
 </body>
