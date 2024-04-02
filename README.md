@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RIVER</title>
+    <title> RIVER </title>
 </head>
 <body>
     <table class="topbar">
@@ -43,7 +43,7 @@
             <td align="justify"><b>Josei</b> <a href="https://blogbbm.com/manga/wotakoi/">Clique aqui para ler</a></td>
         </tr>
         <tr>
-            <td align="justify"><b>Shounen</b> <a href="https://r.search.yahoo.com/_ylt=Awrigcn3ZwtmtgQAGM_z6Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1713233144/RO=10/RU=https%3a%2f%2fmangaonline.biz%2fmanga%2fhunter-x-hunter%2f/RK=2/RS=adgj.n_WUBDLJkCSVhXaFgwMxL0-">Clique aqui para ler</a></td>
+            <td align="justify"><b>Shounen</b> <a href="https://mangaonline.biz/manga/hunter-x-hunter/">Clique aqui para ler</a></td>
             <td align="justify"><b>Kodomo</b> <a href="https://myanimelist.net/anime/23915/The_Adventures_of_Hello_Kitty___Friends">Clique aqui para ler</a></td>
             <td></td>
         </tr>
