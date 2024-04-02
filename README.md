@@ -13,7 +13,7 @@
         <tr>
             <td><a href="#"><h1 align="left">História</h1></a></td>
             <td width="100%"></td>
-            <td><a href="#"><h1 align="right">Categoria</h1></a></td>
+            
         </tr>
     </table>
     <table>
@@ -35,6 +35,7 @@
         <td style="vertical-align: middle;"><img width="200" height="200" src="hello-kitty.jpg" alt="Hello Kitty"/></td>
     </tr>
 </table>
+  <td><a href="#"><h1 align="right">Categoria</h1></a></td>
 <table align="center">
     <tr>
         <td align="center"><b>Seinen</b> <a href="https://mangasonline.cc/manga/tokyo-ghoul/">Clique aqui para ler</a></td>
