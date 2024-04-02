@@ -25,7 +25,7 @@
             </td>
         </tr>
         <tr>
-            <td><h2><a href="https://mangaonline.biz/generos/">Categorias de Mangá</a></h2></td>
+            <td><h2><a href="https://mangaonline.biz/generos/">Categorias de Mangá/caso queria se aprofundar mais</a></h2></td>
         </tr>
     </table>
     <table align="center">
