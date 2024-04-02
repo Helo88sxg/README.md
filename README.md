@@ -35,7 +35,7 @@
         <td style="vertical-align: middle;"><img width="200" height="200" src="hello-kitty.jpg" alt="Hello Kitty"/></td>
     </tr>
 </table>
-<table>
+<table align="center">
     <tr>
         <td align="center"><b>Seinen</b> <a href="https://mangasonline.cc/manga/tokyo-ghoul/">Clique aqui para ler</a></td>
         <td align="center"><b>Shoujo</b> <a href="https://editorajbc.com.br/mangas/colecao/orange/">Clique aqui para ler</a></td>
@@ -50,7 +50,5 @@
 
     
 
-    
-    
 </body>
 </html>
