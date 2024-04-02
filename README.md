@@ -35,7 +35,7 @@
         <tr>
             <td align="center"><b>Shounen</b> <a href="https://mangaonline.biz/manga/hunter-x-hunter/">Clique aqui para ler</a></td>
             <td align="center"><b>Kodomo</b> <a href="https://myanimelist.net/anime/23915/The_Adventures_of_Hello_Kitty___Friends">Clique aqui para ler</a></td>
-            <td></td>
+            <td> align="center"><b>Isekai</b> <a href="https://r.search.yahoo.com/_ylt=AwrEpeuheQxmigQAmBPz6Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1713303201/RO=10/RU=https%3a%2f%2fmangaonline.biz%2fmanga%2fsolo-leveling1%2f/RK=2/RS=V9Ybtdx0oQBLJjxycn8AlL6VwK8-">Clique aqui para ler</a></td>
         </tr>
         </tr>
             <td style="vertical-align: middle;"><img width="200" height="200" src="tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
