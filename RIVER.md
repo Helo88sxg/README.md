@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +10,7 @@
         </tr>
         <tr>
             <td><a href="#"><h1 align="left">História</h1></a></td>
-            <td><a href="#"><h1 align="right">Categoria</h1></a></td>
+            <td><a href="#"><h1 align="center right">Categoria</h1></a></td>
             <td width="100%"></td>
         </tr>
     </table>
@@ -23,8 +22,6 @@
             <td>
                 <p align="justify">O termo mangá surgiu em 1814, nos hokusai mangá, que trazem caricaturas e ilustrão a cultura japonesa. Já o mangá moderno tem influência dos cartuns ocidentais e de quadrinhos clássicos da Disney; e é basicamente uma criação de Osamu Tezuka, com Shin Takarajima (“A Nova Ilha do Tesouro”), de 1947.</p>
             </td>
-             <td style="vertical-align: middle;"><img width="300" height="300"src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/ilha%20do%20tesou.jpg" alt=ilhadotesou.jpg"/></td>
-        </tr>
         <tr>
             <td><h2><a href="https://mangaonline.biz/generos/">Categorias de Mangá/caso queria se aprofundar mais</a></h2></td>
         </tr>
