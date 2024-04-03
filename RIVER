@@ -1,4 +1,3 @@
-site_RIVER
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -13,8 +12,7 @@ site_RIVER
             <td><a href="#"><h1 align="left">História</h1></a></td>
             <td><a href="#"><h1 align="center right">Categoria</h1></a></td>
             <td width="100%"></td>
-        </tr>
-    </table>
+        </tr></table>
     <table>
         <tr>
             <td><h2>História de Criação</h2></td>
