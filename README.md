@@ -21,7 +21,7 @@
         </tr>
         <tr>
             <td>
-                <p align="justify">O termo mangá surgiu em 1814, nos hokusai mangá, que trazem caricaturas e ilustrações sobre a cultura japonesa. Já o mangá moderno tem influência dos cartuns ocidentais e de quadrinhos clássicos da Disney; e é basicamente uma criação de Osamu Tezuka, com Shin Takarajima (“A Nova Ilha do Tesouro”), de 1947.</p>
+                <p align="justify">O termo mangá surgiu em 1814, nos hokusai mangá, que trazem caricaturas e ilustrão a cultura japonesa. Já o mangá moderno tem influência dos cartuns ocidentais e de quadrinhos clássicos da Disney; e é basicamente uma criação de Osamu Tezuka, com Shin Takarajima (“A Nova Ilha do Tesouro”), de 1947.</p>
             </td>
              <td style="vertical-align: middle;"><img width="300" height="300"src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/ilha%20do%20tesou.jpg" alt=ilhadotesou.jpg"/></td>
         </tr>
