@@ -40,9 +40,9 @@
             <td align="center"><b>Isekai</b> <a href="https://r.search.yahoo.com/_ylt=AwrEpeuheQxmigQAmBPz6Qt.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1713303201/RO=10/RU=https%3a%2f%2fmangaonline.biz%2fmanga%2fsolo-leveling1%2f/RK=2/RS=V9Ybtdx0oQBLJjxycn8AlL6VwK8-">Clique aqui para ler</a></td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="manga-shoujou-orange.jpg" alt="Manga Shoujou Orange"/></td>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="hello-kitty.jpg" alt="Hello Kitty"/></td>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/hello-kitty.jpg" alt="Manga Shoujou Orange"/></td>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/tokyo-ghoul.jpg" alt="Hello Kitty"/></td>
         </tr>
         <tr>
             <td colspan="3" align="center"><h1><font size="5" color="purple">Mangas recomendados</font></h1></td>
