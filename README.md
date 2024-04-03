@@ -43,7 +43,7 @@
         <tr>
             <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
             <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/hello-kitty.jpg" alt="Manga Shoujou Orange"/></td>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/tokyo-ghoul.jpg" alt="Hello Kitty"/></td>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/capamangadebersek.jpg" alt="capa manga de bersek"/></td>
         </tr>
         <tr>
             <td colspan="3" align="center"><h1><font size="5" color="purple">Mangas recomendados</font></h1></td>
