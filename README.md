@@ -23,7 +23,7 @@
             <td>
                 <p>O termo mangá surgiu em 1814, nos hokusai mangá, que trazem caricaturas e ilustrações sobre a cultura japonesa. Já o mangá moderno tem influência dos cartuns ocidentais e de quadrinhos clássicos da Disney; e é basicamente uma criação de Osamu Tezuka, com Shin Takarajima (“A Nova Ilha do Tesouro”), de 1947.</p>
             </td>
-             <td style="vertical-align: middle;"><img width="200" height="200"src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/tokyo-ghoul.jpg" alt=ilhadotesou.jpg"/></td>
+             <td style="vertical-align: middle;"><img width="200" height="200"src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/ilha%20do%20tesou.jpg" alt=ilhadotesou.jpg"/></td>
         </tr>
         <tr>
             <td><h2><a href="https://mangaonline.biz/generos/">Categorias de Mangá/caso queria se aprofundar mais</a></h2></td>
@@ -43,7 +43,7 @@
         <tr>
             <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/tokyo-ghoul.jpg" alt="Tokyo Ghoul"/></td>
             <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/hello-kitty.jpg" alt="Manga Shoujou Orange"/></td>
-            <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/capamangadebersek.jpg" alt="capa manga de bersek"/></td>
+            <td style="vertical-align: middle;"><img width="200" height="200" src="https://github.com/Helo88sxg/site.html-01/blob/main/imagens/capa%20manga%20de%20bersek.jpg" alt="capa manga de bersek"/></td>
         </tr>
         <tr>
             <td colspan="3" align="center"><h1><font size="5" color="purple">Mangas recomendados</font></h1></td>
